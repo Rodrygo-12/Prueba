@@ -1,6 +1,7 @@
 let nyu = 'nyu'
 let muri = 'muri'
 let kae = 'kae'
+let tina = 'tina'
 let sol = 'sol'
 let laura = 'laura'
 let nuv = 'nuv'
